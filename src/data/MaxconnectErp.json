@@ -1,0 +1,164 @@
+
+{
+    "maxconnecterp": [
+        {
+            "id": 1,
+            "name": "Admin",
+            "image":"admin",
+            "text": "Admin can control on the system and create other admin and admin and sub admin by issuing the  desired module",
+            "other":["Create Own Admin panel", "Control all the user"]
+
+        },
+        {
+            "id": 2,
+            "name": "Reports",
+            "image": "report",
+            "text": "In reports you can all of the reports like",
+            "other":["Class/batch details","Student details",
+                "Employee details",
+                "Daily fee receipt report",
+                "Fees defaulters details",
+                "Student attendance report",
+                "Bank wise collection report","Daily sales report, Daily daybook report,Supplier report, Stock report, Stock report, Purchase order report, Hostel fee report, Transportation fee report, Expenses report, Visitor report"]
+        },
+        {
+            "id": 3,
+            "name": "Students",
+            "image": "student",
+            "text": "Here admin can manage the students",
+            "other": ["Enter new students", "Manage students", "Student day attendance", "Attendance registers"]
+        },
+        {
+            "id": 4,
+            "name": "Masters",
+            "image": "masters",
+            "text": "Here admin need to create the master to run the erp smoothly he can create masters like",
+            "other":["Manage Branch",
+                "Manage School/collage", "Add batch", "Add class", "Add section", "Manage class", "Manage section", "Manage religion", "Manage nationality", "Manage student cast", "Manage holidays", "Manage sms template", "Manage blood group", "Manage department", "Manage designation"],
+            "other1":[
+                "Subject master", "Subject type", "Mapping area", "School subject", "Add subject", "Manage subject",
+                "Library master", "Storage type master", "Building master", "Member type master", "Book type master", "Material type master", "Author master", "Language master", "Publication master", "Main category master", "Category master", "Sub category master", "Room master", "Rack master", "Self master", "Fine master",
+                "Manage banks", " Add bank master", "Add branch master", " Account information"
+        ]
+    },
+            {
+                "id": 5,
+                "name": "Human-resources",
+                "image": "human",
+                "text":"Human-resources",
+                "other": ["Manage employee", "Manage leave type", "Pending leave requests", "All leave requests", "Pending punch edit reports", "Attendance report", "Salary summery report", "Employee current status", "Employee lecture /period report"]
+        },
+        {
+            "id": 6,
+            "name": "Fee-details",    
+            "image": "feedetail",         
+            "text": "Fee-Deatials, Student fee defaulter",
+            "other": ["Student fee submit", "Student fee defaulter", "View student fee details", "Cheque details", "Daily fee receipt register", "Bank wise collection"]
+        },
+        
+        {
+            "id": 8,
+            "name": "Academic",
+            "image": "academic",
+            "text": "View time table, View syllabus, Attendance report",
+            "other": ["View time table", "View syllabus", "Attendance report", "Student wise attendance", "Date wise student attendance", "View holiday calendar", "Academic calendar"],
+            "other1": [
+               "Manage time table", "Manage time slot", "Manage time period", "Manage time interval", "Week master", "Manage room master", "Add timetable", "Substitute timetable"]
+            
+        },
+        {
+            "id": 9,
+            "name": "Sale",
+            "image": "sale",
+            "text":"Manage items, Sale, View sale",
+            "other": ["Manage items", "Sale", "View sale"]
+        },
+        {
+            "id": 10,
+            "name": "Library",
+            "image": "library",
+            "text":"Add books, Book issue, Book return",
+            "other": ["Add books", "Book issue", "Book return", "Book search"]
+        },
+        {
+            "id": 11,
+            "name": "Examination",
+            "image": "examination",
+            "text": "Exam type, Exam name, Add exam marks",
+            "other": ["Exam type", "Exam name", "Add exam marks", "View student marks", "Add grade system"]
+        },
+        {
+            "id": 12,
+            "name": "Invantory",
+            "image": "invantory",
+            "text": "Supplier, Add supplier, Unit master",
+            "other": ["Add supplier", "View / modify supplier"],
+            "other1": [
+                
+                    "Supplier", "Add supplier", "View / modify supplier",
+                    "Master", " Unit master", "Category master", "Item master", "Description", "Manage items", "Manage item price", "Stock balance",
+                    "Material requisition", "Add new", "View material requisition", "Issue material requisition", "Pending material requisition", "Issue material requisition",
+                    "Purchase order", "Add purchase order", "Manage purchase order", "Receive purchase order", "Purchase order terms and condition"
+            ]
+
+        },
+        {
+            "id": 13,
+            "name": "Hostel",
+            "image": "hostel",
+            "text": "Manage room type, Manage assets, Manage hostel",
+            "other": ["Manage room type", "Manage assets", "Manage hostel", "Manage building", "Manage floor", "Manage room", "Room allocated", "Hostel submit fee"],
+            "other1": [
+                 "Reports", "Hostel student report", "Today fee report", "Monthly fee report", "Fee defaulter report"                
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Transport",
+            "image": "transport",
+            "text": "Manage transport type, Manage conductor, Manage transport time",
+            "other": ["Manage transport type", "Manage transport", "Manage driver", "Manage conductor", "Manage cleaner or nannies", "Manage route", "Manage station", "Manage transport time", "Transport allocated", "Transport submit fee"],
+            "other1": [                
+                    "Reports", "Transport student report", " Today fee report", "Monthly fee report", "Fee defaulter report"
+                 ]
+        },
+        {
+            "id": 15,
+            "name": "Expenses-payment",
+            "image": "feedetail",
+            "text":"Day book, Approve expenses, Payment to own account",
+            "other": ["Day book", "Approve expenses", "Payment to own account", "Payment to employee", "Statement"],
+            "other1": [               
+                    "Expense Master", "Manage major", "Manage head", "Manage Subhead"
+            ]
+        },
+        {
+            "id": 16,
+            "name": "News offers & update",
+            "image": "newsofferupdate",
+            "text":"News offers & update, Manage news and update",
+            "other": ["Manage news and update", "Manage offers and update"]
+        },
+        {
+            "id": 17,
+            "name": "Events-gallery",
+            "image": "eventgallery",
+            "text": "Events-gallery, Add Event",
+            "other": ["Add Event", "Add gallery"]
+        },
+        {
+            "id": 18,
+            "name": "Notice update",
+            "image": "noticeupdate",
+            "text": "Notice update, Send notice to single student",
+            "other": ["Send notice to single student", "Send notice class wise", "Send notice group wise", "Send notice to all"]
+        },
+        {
+            "id": 19,
+            "name": "Visitors",
+            "image": "visitor",
+            "text": "Visitors, Master purpose, Master secure area",
+            "other": ["Master purpose", "Master secure area", "Master visitor sub register", "Master visitor type", "Manage visitor"]
+        }
+    ]
+}
